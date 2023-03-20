@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.greenspace.wwf.soilmate",
+               "sha256_cert_fingerprints": ["0F:4A:82:BC:87:B2:10:41:9D:08:32:02:90:D6:FC:EE:FB:35:67:CB:5B:E7:40:91:CD:44:A4:6B:00:37:4D:91"] }
+}]
